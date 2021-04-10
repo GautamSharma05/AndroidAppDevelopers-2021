@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">InternshipProgram</string>
+    <string name="app_name">MobileAutheentication</string>
+    <string name="click_for_mobile_authentication">Click Here</string>
+    <string name="for_fetching_verified_documents">For fetching verified documents</string>
+    <string name="_987_654_3210">987 654 3210</string>
+    <string name="_91">+91</string>
+    <string name="enter_your_mobile_number">Enter your Mobile Number</string>
+    <string name="you_won_t_be_able_to_verified_documents_using_your_mobile_number_authentication">You won\'t be able to verified documents using your Mobile Number authentication</string>
+    <string name="next">Next</string>
+    <string name="continue_with_aadhar">Continue with Aadhar</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.android.internshipprogram;
+package com.example.mobileautheentication;
 
 import org.junit.Test;
 
